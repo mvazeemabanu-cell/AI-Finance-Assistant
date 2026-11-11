@@ -23,16 +23,13 @@ Built for the PayPal AI Hackathon.
 PayPal secrets and the Gemini key stay on the backend only.
 
 ## Tech stack
-
 PayPal Developer Platform (Sandbox, Orders v2), Google Gemini API, React, Vite, Recharts, Node.js, Express.
-
 ## Run it locally
-
 You need Node.js 18+, a free PayPal Developer account and a free Gemini API key.
 
 1. Install:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/AI-Finance-Assistant.git
+   git clone https://github.com/mvazeemabanu-cell/AI-Finance-Assistant.git
    cd AI-Finance-Assistant
    npm install
    ```
